@@ -1,0 +1,14 @@
+# Ignore executables and build files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
